@@ -1,0 +1,8 @@
+Config file,info
+input,8
+output,9
+chrome_driver_path,/home/ali/Desktop/Idrak-bot/driver/chromedriver
+delay_counter,400
+no_answer_th,1000
+no_xfer_th,50
+pause_at_start,True
